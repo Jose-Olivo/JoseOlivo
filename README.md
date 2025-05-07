@@ -2,7 +2,7 @@
 
 ![Hola GIF](https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif)
 
-Soy un **Desarrollador Full Stack** apasionado por crear soluciones eficientes y escalables. Con experiencia en tecnologías como **HTML5**, **CSS3**, **JavaScript**, **Python**, **PHP**, y frameworks como **React**, **Vue.js**, **Next.js**, y **Bootstrap**, me encanta aprender y colaborar en proyectos de código abierto.
+Soy un **Desarrollador** apasionado por crear soluciones eficientes y escalables. Con experiencia en tecnologías como **HTML5**, **CSS3**, **JavaScript**, **Python**, **PHP**, y frameworks como **React**, **Vue.js**, **Next.js**, y **Bootstrap**, me encanta aprender y colaborar en proyectos de código abierto.
 
 📫 Puedes contactarme en: [yejo182710@gmail.com](mailto:yejo182710@gmail.com)
 
